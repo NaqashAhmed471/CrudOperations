@@ -1,0 +1,16 @@
+.table_Wrapper {
+  margin-top: 50px;
+  background-color: gray;
+}
+.table_Wrapper .editBtn:hover {
+  color: green;
+}
+.table_Wrapper .deleteBtn:hover {
+  color: red;
+}
+Table tr th {
+  text-align: center;
+}
+Table tr td {
+  text-align: center;
+}
